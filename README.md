@@ -50,6 +50,9 @@ Copyright &copy; Contentful Developer Relations
 
 Licensed under the [MIT license](https://github.com/contentful-labs/ui-editable-table/blob/master/LICENSE).
 
-| Column 1       | Column 2     | Column 3     |\n| :------------- | :----------: | -----------: |\n|  Cell Contents | More Stuff   | And Again    |\n| You Can Also   | Put Pipes In | Like this \\ |
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \\ |
 
 
