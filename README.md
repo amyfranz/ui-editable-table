@@ -50,9 +50,10 @@ Copyright &copy; Contentful Developer Relations
 
 Licensed under the [MIT license](https://github.com/contentful-labs/ui-editable-table/blob/master/LICENSE).
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 | Column 1       | Column 2     | Column 3     |
 | :------------- | :----------: | -----------: |
 |  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this    |
-
+| You Can Also   | Put Pipes In | Like this \| |
 
